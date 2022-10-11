@@ -1,5 +1,7 @@
 ## Top 25 Algorithms
 
+credits to [@codingwithsagar](https://www.instagram.com/p/CjiTOFzPrlx/?utm_source=ig_web_copy_link, "@codingwithsagar Instagram")
+
 1. Binary Search Algorithm
 2. Breadth First Search (BFS) Algorithm
 3. Depth First Search (DFS) Algorithm
